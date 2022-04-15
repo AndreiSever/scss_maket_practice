@@ -12,13 +12,12 @@
 <body>
     
 
-    <header class="footer">
-
+    <header>
     </header>
     <main class="main"></main>
-    <footer class="funky">
+    <footer>
         <nav></nav>
     </footer>
-    <footer class="footer"></footer>
+    
 </body>
 </html>

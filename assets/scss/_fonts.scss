@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'ubuntu';
+    src: url("fonts/Ubuntu-light.woff2"),
+    url("fonts/Ubuntu-light.woff");
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ubuntu';
+    src: url("fonts/Ubuntu-regular.woff2"),
+    url("fonts/Ubuntu-regular.woff");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ubuntu';
+    src: url("fonts/Ubuntu-medium.woff2"),
+    url("fonts/Ubuntu-medium.woff");
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+}
+body {
+    font-family: 'ubuntu', sans-serif;
+    font-weight: 400;
+}
